@@ -13,6 +13,6 @@
     "nodemon": "^3.1.11"
   },
   "scripts": {
-    "dev": "nodemon --exec node -r @swc-node/register 08_type_alias.ts"
+    "dev": "nodemon --exec node -r @swc-node/register 09_function.ts"
   }
 }
